@@ -323,8 +323,4 @@ Special thanks to these amazing projects and communities:
 
 <div align="center">
 
-**Made with ❤️ for the VTuber and motion capture community**
-
-If this project helped you, consider giving it a ⭐!
-
 </div>
