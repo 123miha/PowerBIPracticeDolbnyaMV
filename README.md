@@ -1,4 +1,4 @@
-# 🎭 VRM Motion Capture Studio
+# VRM Motion Capture Studio
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Key Features](#-key-features)
@@ -43,40 +43,40 @@ Perfect for VTubers, content creators, game developers, and anyone interested in
 
 ### Why This Project?
 
-- ✅ **No expensive hardware** — just a webcam and browser
-- ✅ **Runs entirely in-browser** — no server or installation required
-- ✅ **Open source and free** — MIT licensed
-- ✅ **Production-ready** — optimized for 60 FPS performance
+- **No expensive hardware** — just a webcam and browser
+- **Runs entirely in-browser** — no server or installation required
+- **Open source and free** — MIT licensed
+- **Production-ready** — optimized for 60 FPS performance
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🎯 Motion Capture
+### Motion Capture
 - **Facial tracking** — 478 points capturing mouth shapes (A, I, U, E, O), eye blinks, gaze direction, and head rotation
 - **Body tracking** — 33 points for shoulders, arms, torso, and posture
 - **Hand tracking** — 21 points per hand with enhanced finger curl detection (1.3x multiplier)
 
-### 🎨 Customization
+### Customization
 - **VRM avatar support** — drag-and-drop .vrm file loading
 - **Expression presets** — Happy, Sad, Angry, Surprised, Relaxed
 - **10 HDRI environments** — Dark, Night, Sunset, Studio, Forest, and more
 - **Debug tools** — position, rotation, scale controls with grid overlay
 
-### 📊 Performance Tools
+### Performance Tools
 - **Real-time metrics** — FPS counter, latency monitor, detection quality
 - **Optimization options** — adjustable smoothing, model complexity
 - **Test mode** — comprehensive performance analysis
 
 ---
 
-## 🎬 Demo
+## Demo
 
 ### Live Application
-👉 **[Try it now](https://your-demo-link.vercel.app)**
+**[Try it now](https://your-demo-link.vercel.app)**
 
 ### Video Demonstration
-📺 **[Watch on YouTube](https://youtube.com/your-demo-video)**
+**[Watch on YouTube](https://youtube.com/your-demo-video)**
 
 ### Screenshots
 
@@ -96,7 +96,7 @@ Perfect for VTubers, content creators, game developers, and anyone interested in
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -135,11 +135,11 @@ The application will open at `http://localhost:5173`
 
 | Tab | Description |
 |-----|-------------|
-| 👤 **Avatar** | Load VRM files, access avatar resources |
-| 😊 **Expression** | Select facial expressions (Happy, Sad, Angry, Surprised, Relaxed) |
-| 🌄 **Scene** | Choose from 10 HDRI environments |
-| ⚙️ **Debug** | Adjust position, rotation, scale, and grid display |
-| 📊 **Test** | View performance metrics and run tests |
+| **Avatar** | Load VRM files, access avatar resources |
+| **Expression** | Select facial expressions (Happy, Sad, Angry, Surprised, Relaxed) |
+| **Scene** | Choose from 10 HDRI environments |
+| **Debug** | Adjust position, rotation, scale, and grid display |
+| **Test** | View performance metrics and run tests |
 
 ### Keyboard Shortcuts
 
@@ -156,7 +156,7 @@ For detailed configuration options, see [DEVELOPER_GUIDE.md](docs/DEVELOPER_GUID
 
 ---
 
-## ⚡ Performance
+## Performance
 
 ### Target Metrics
 
@@ -182,7 +182,7 @@ For detailed configuration options, see [DEVELOPER_GUIDE.md](docs/DEVELOPER_GUID
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Core Framework
 - **[React](https://react.dev)** 18.x — UI library
@@ -203,7 +203,7 @@ For detailed configuration options, see [DEVELOPER_GUIDE.md](docs/DEVELOPER_GUID
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 vrm-mocap/
@@ -231,7 +231,7 @@ vrm-mocap/
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### MediaPipe Settings
 
@@ -269,7 +269,7 @@ video: {
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -294,13 +294,13 @@ Looking for beginner-friendly tasks? Check out issues labeled [`good first issue
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Special thanks to these amazing projects and communities:
 
@@ -313,7 +313,7 @@ Special thanks to these amazing projects and communities:
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/your-username/vrm-mocap/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/vrm-mocap/discussions)
