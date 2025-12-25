@@ -9,11 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Real-time face, body, and hand motion capture with live VRM avatar control**
-
-[Demo](https://your-demo-link.vercel.app) • [Documentation](docs/) • [Report Bug](https://github.com/your-username/vrm-mocap/issues) • [Request Feature](https://github.com/your-username/vrm-mocap/issues)
-
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Add+Your+Demo+Screenshot+Here)
-
 </div>
 
 ---
